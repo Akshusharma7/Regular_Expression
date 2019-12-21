@@ -20,6 +20,7 @@ Mrs. Robinson
 Mr. T
 '''
 
+
 sentence = 'Start a sentence and then bring it to an end'
 
 pattern = re.compile(r'start', re.I)
