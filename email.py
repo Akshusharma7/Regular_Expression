@@ -2,6 +2,7 @@ import re
 
 emails = '''
 CoreyMSchafer@gmail.com
+qwerty12345.com
 corey.schafer@university.edu
 corey-321-schafer@my-work.net
 prateekakshu
