@@ -2,8 +2,7 @@
 import re
 
 
-text_to_search = 
-'''
+text_to_search = '''
 abcdefghijklmnopqurtuvwxyz
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
 1234567890
