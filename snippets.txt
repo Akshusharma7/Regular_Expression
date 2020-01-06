@@ -18,6 +18,7 @@ $       - End of a String
 |       - Either Or
 ( )     - Group
 
+
 Quantifiers:
 *       - 0 or More
 +       - 1 or More
