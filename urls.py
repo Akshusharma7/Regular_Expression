@@ -11,6 +11,8 @@ pattern = re.compile(r'https?://(www\.)?(\w+)(\.\w+)')
 
 subbed_urls = pattern.sub(r'\2\3', urls)
 
+subbed_urls = pattern.sub(r'\2\3', urls)
+
 print(subbed_urls)
 
 # matches = pattern.finditer(urls)
