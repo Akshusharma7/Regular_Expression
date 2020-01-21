@@ -1,7 +1,6 @@
 #Regular Expression Libraries
 import re
 
-
 text_to_search = '''
 abcdefghijklmnopqurtuvwxyz
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
